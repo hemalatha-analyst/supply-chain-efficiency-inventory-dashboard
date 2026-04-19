@@ -75,13 +75,15 @@ Tracks inventory efficiency by category
 Compares actual demand vs forecast accuracy
 Highlights high and low-performing warehouses
 Helps reduce inventory holding costs
-🖼 Dashboard Preview
-![Dashboard Screenshot](screenshots/dashboard.png)
-📁 Project Files
-.pbix → Power BI Dashboard file
-.xlsx → Dataset used
-.png → Dashboard screenshots
-README.md → Project documentation
+
+## 🚀 Live Project Assets
+
+🔹 Power BI Dashboard File: [Download](./Supply_Chain_Performance_Dashboard.pbix)  
+🔹 Dataset Used: [Download](./supply_chain.xlsx)  
+🔹 Dashboard Preview:
+
+![Dashboard](./Supply_Chain_Dashboard_Overview.png)
+
 🚀 Conclusion
 
 This project demonstrates how Power BI can be used to transform raw supply chain data into actionable insights, enabling better decision-making and operational efficiency.
